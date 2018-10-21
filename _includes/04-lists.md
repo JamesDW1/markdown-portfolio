@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+### List of Zones
+* Atlas Park
+* Galaxy City
+* King's Row
+* Independence Port
+* Talos Island
